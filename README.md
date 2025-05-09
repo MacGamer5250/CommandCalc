@@ -1,5 +1,6 @@
 # CommandCalc BETA
-This is a beta build of a basic command line calculator.
+This is a beta build of a basic command line calculator. 
+# Report issues if needed!
 # CommandCalc
 CommandCalc is a basic python program to calculate basic equations.
 
